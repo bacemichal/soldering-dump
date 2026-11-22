@@ -6,3 +6,4 @@
 
 rgh3 corona v2, blue led mod
 
+0603 SMD LED (rf board / guide button controller)
