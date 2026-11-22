@@ -3,3 +3,7 @@
 
 rgh3 corona v3 16MB
 
+30 AWG single core
+CPU postfix adapter
+1kΩ resistor
+
